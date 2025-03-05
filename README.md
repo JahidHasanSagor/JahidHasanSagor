@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @JahidHasanSagor
-- 👀 I’m interested in Augmented Reality and Mixed Reality
-- 🌱 I’m currently learning cross platform application development using Flutter and Dart
-- 💞️ I’m looking to collaborate on mobile app team in any reputated and good work culture company
+- I’m interested in AR, VR and XR development, and Mobile App Development
+- Studied master's degree in Software, Web and Cloud
 - 📫 Reach me - jahid.h.sagor@gmail.com
 
 <!---
