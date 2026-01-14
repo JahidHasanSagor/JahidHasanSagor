@@ -16,8 +16,9 @@ I'm a software engineer passionate about building innovative mobile applications
 - **Mobile:** Flutter, Dart, Swift, Kotlin
 - **Backend:** Node.js, Express, TypeScript
 - **AI/ML:** ElevenLabs API, Conversational AI, WebSocket
-- **AR/VR:** Unity, ARKit, ARCore
-- **Tools:** Git, Firebase, Railway, Docker
+- **XR/VR:** Unity, XRKit, MRKit
+- **Cloud:** AWS Amplify, Railway, Docker, CI/CD(Github Actions)
+- **Tools:** Jira, Git, Cursor, Claude Code CLI
 
 ## 📚 Education
 
