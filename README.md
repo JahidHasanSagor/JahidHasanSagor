@@ -25,7 +25,7 @@ I'm a software engineer passionate about building innovative mobile applications
 
 ## 📫 Get in Touch
 
-- 📧 Email: jahid.h.sagor@gmail.com
+- 📧 Email: jahid.sagor@outlook.com
 - 💼 LinkedIn: https://www.linkedin.com/in/jahid-sagor
 
 ---
