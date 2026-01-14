@@ -1,6 +1,6 @@
 # Hi there, I'm Jahid Hasan Sagor 👋
 
-**Mobile App Developer** | **AR/VR/XR Enthusiast** | **AI Integration Specialist**
+**Backend Developer** | **AR/VR/XR Enthusiast** | **AI Integration Specialist**
 
 I'm a software engineer passionate about building innovative mobile applications and immersive experiences. Currently focused on Flutter development, AI-powered voice assistants, and exploring the future of spatial computing.
 
