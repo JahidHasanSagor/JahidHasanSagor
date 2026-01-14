@@ -8,7 +8,6 @@ I'm a software engineer passionate about building innovative mobile applications
 
 - **AI-Powered Productivity Apps** - Building voice assistants with conversational AI
 - **Cross-Platform Mobile Development** - Flutter, iOS, Android
-- **AR/VR/XR Development** - Exploring immersive technologies
 - **Backend Development** - Node.js, TypeScript, RESTful APIs
 
 ## 💻 Tech Stack
