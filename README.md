@@ -21,7 +21,7 @@ I'm a software engineer passionate about building innovative mobile applications
 
 ## 📚 Education
 
-🎓 Master's Degree in Software, Web and Cloud
+🎓 Master's Degree in Software, Web and Cloud from Tampere University, Tampere, Finland
 
 ## 📫 Get in Touch
 
